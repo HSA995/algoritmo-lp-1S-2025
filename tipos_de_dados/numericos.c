@@ -6,6 +6,7 @@ int main(int agrc, char* agrv[]){
     float altura; 
     float peso;
     
+    // coleta dos dados
     printf("Digite a idade: ");
     scanf("%d", &idade);
     printf("Digite a altura:");
@@ -13,6 +14,7 @@ int main(int agrc, char* agrv[]){
     printf("Digite o peso:");
     scanf("%f", &peso);
 
+    //calculo do IMC?
     printf("A idade eh %d\n", idade);
     printf("A altura eh %.2f\n0 peso eh %.2f\n", altura, peso);
 
