@@ -29,7 +29,7 @@ int main () {
     else if (imc >= 35 && imc < 39.9)
         printf("Classificacao: Obesidade grau 2\n");
     else 
-        printf("Classificacao: Obesidade grau 3 (Morbida)\n");
+        printf("Classificaca: Obesidade grau 3 (Morbida)\n");
 
     return 0;
 
