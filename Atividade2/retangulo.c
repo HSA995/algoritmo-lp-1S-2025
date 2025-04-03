@@ -4,7 +4,7 @@ float calcular_area_retangulo(float base, float altura){
     return base * altura;
 }
 
-int main(){
+int main(int argc, char* argv[]){
     float base, altura;
 
     printf("Determinde o valor da base:");

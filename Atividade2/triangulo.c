@@ -4,7 +4,7 @@
     return (base * altura) / 2;
  }
 
- int main (){
+ int main (int argc, char* argv[]){
     float base, altura;
 
 

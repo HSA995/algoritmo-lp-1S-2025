@@ -5,7 +5,7 @@ float calcular_area_trapezio(float B, float b, float h) {
 
 }
 
-int main (){
+int main (int argc, char* argv[]){
     float B, b, h;
     
     printf("determine a base maior:");

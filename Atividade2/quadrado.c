@@ -5,7 +5,7 @@ float calcular_area_quadrado(float lado){
 
 }
 
-int main(){
+int main(int argc, char* argv[]){
     float lado; 
     
     printf("Defina o valor do lado:");
